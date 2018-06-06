@@ -1,4 +1,4 @@
-def Tv (name, room_number)
-  "hello, welcome to #(room_number), #(name)"
+def tv(name, room_number)
+  puts "hello, welcome to #{room_number}, #{name}"
 end
-  
+tv
